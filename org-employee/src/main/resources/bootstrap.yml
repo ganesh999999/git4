@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: org-employee
-  cloud:
-    config:
-      uri: http://localhost:8084
-      failFast: true
-      
-      
